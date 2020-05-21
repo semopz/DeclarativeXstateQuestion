@@ -1,2 +1,0 @@
-# DeclarativeXstateQuestion
-Created with CodeSandbox
